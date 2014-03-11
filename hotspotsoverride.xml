@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content" method="upgrade">
+	<name>Hotspots overide marker</name>
+	<author>compojoom</author>
+	<creationDate>March 2014</creationDate>
+	<copyright>(C) 2008 - 2014 compojoom.com All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<authorEmail>contact-us@compojoom.com</authorEmail>
+	<authorUrl>https://compojoom.com</authorUrl>
+	<version>2.5.0</version>
+	<description>Plugin to override the Hotspots Marker fields.</description>
+	<files>
+		<folder>marker</folder>
+		<filename plugin="hotspotsoverride">hotspotsoverride.php</filename>
+	</files>
+	<config>
+	</config>
+</extension>

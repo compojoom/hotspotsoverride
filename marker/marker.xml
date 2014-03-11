@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field name="hotspotText" type="editor" class="inputbox"
+		       label="COM_HOTSPOTS_FIELD_DESCRIPTION" description="COM_HOTSPOTS_FIELD_DESCRIPTION_DESC"
+		       filter="JComponentHelper::filterText"  editor="none" buttons="true" hide="article,image,pagebreak" required="true"/>
+	</fieldset>
+</form>
